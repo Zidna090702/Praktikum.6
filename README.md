@@ -24,6 +24,8 @@ Kelas   : TI.22.B1
 
 1. masukan codingan sebagai berikut lalu run dengan mengetikan perintah berikut diterminal python
 
+[Praktikum6.txt](https://github.com/Zidna090702/Praktikum.6/files/10148393/Praktikum6.txt)
+
 
 
 2. Hasil output
